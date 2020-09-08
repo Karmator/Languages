@@ -495,7 +495,7 @@
 		{"key": "employee_search_available_skills", "value": "Compétences disponible"},
 		{"key": "employee_search_cancel_button", "value": "<size=-5>Annuler la recherche</size>"},
 		{"key": "employee_search_reset_button", "value": "<size=-5>Réinitialiser les critères</size>"},
-		{"key": "employee_search_manager_button", "value": "Manage Found"},
+		{"key": "employee_search_manager_button", "value": "Manager trouver"},
 		{"key": "employee_search_start_button", "value": "<size=-5>Commencer la recherche</size>"},
 		{"key": "employee_search_cost_info", "value": "Coût de la recherche ({0}$ - {1}$): {2}$"},
 		{"key": "employee_search_time_info", "value": "Temps de recherche ({0} - {1}): {2}"},
